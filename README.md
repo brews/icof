@@ -1,15 +1,9 @@
 # icof
 Is California On Fire?
 
-Query iscaliforniaonfire.com.
+Query iscaliforniaonfire.com from Python.
 
 ## Examples
-
-To run from a terminal:
-
-```
-icof
-```
 
 To run from Python:
 
