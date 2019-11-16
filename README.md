@@ -3,7 +3,7 @@ Is California On Fire?
 
 Query iscaliforniaonfire.com from Python.
 
-## Examples
+## Example
 
 To run from Python:
 
