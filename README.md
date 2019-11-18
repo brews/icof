@@ -24,3 +24,6 @@ pip install icof
 ## Support
 
 Source code is available online at https://github.com/brews/icof/. This software is Open Source and available under the Apache License, Version 2.0. 
+
+## Disclaimer
+This package is for teaching basic python package design and is no way associated with iscaliforniaonfire.com.
