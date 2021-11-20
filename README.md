@@ -18,7 +18,7 @@ is_california_on_fire()
 To install with `pip`, run:
 
 ```
-pip install icof
+pip install git+https://github.com/brews/icof
 ```
 
 ## Support
